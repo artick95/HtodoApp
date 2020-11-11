@@ -1,0 +1,27 @@
+.form-Input{
+    display: flex;
+    justify-content: center;
+
+}
+.main-container {
+    display: flex;
+    justify-content: center;
+    color: black;
+    /* background: red; */
+
+    position: fixed;
+    top: 30%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    box-shadow: 0 20px 20px rgba(0, 0, 0, 0.2), 0px, 0px, 50px rgba(0, 0, 0, 0.2)
+
+}
+
+.todo-Row{
+    display: flex;
+    border-width: 12px;
+    border: black;
+    margin-top: 20px;
+    margin-bottom: 20px;
+
+}
